@@ -19,7 +19,11 @@
   width="350px" 
   src= "https://github.com/user-attachments/assets/089d6532-ce15-44cd-b6f4-eb5a93dce9bc" >
   <li> Os nomes aparecerão numa lista.</li>
-  <li> Ao clicar em “sortear amigo”, parecerá a seguinte mensagem: O amigo sorteado é: “nome da pessoa sorteada”</li>
+  <img 
+  width="350px" 
+  src= "https://github.com/user-attachments/assets/f1f758ab-346a-4287-9e6b-335d6a96c51d" >
+  <li> Clique em “sortear amigo”, 
+  <li> Aparecerá a seguinte mensagem: O amigo sorteado é: “nome da pessoa sorteada”</li>
   <li> O nome sorteado sairá da lista de amigos após ser sorteado.</li>
 </ul>
 <br>
