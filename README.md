@@ -27,6 +27,9 @@
   width="350px" 
   src= "https://github.com/user-attachments/assets/74502f96-11e5-451f-a0b5-3aa8d0870dee" >
   <li> Aparecerá a seguinte mensagem: O amigo sorteado é: “nome da pessoa sorteada”.</li>
+  <img 
+  width="350px" 
+  src= "https://github.com/user-attachments/assets/d39edb81-cd21-487e-ba79-9fd072665371" >
   <li> O nome sorteado sairá da lista de amigos após ser sorteado.</li>
 </ul>
 <br>
