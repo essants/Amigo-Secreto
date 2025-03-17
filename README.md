@@ -2,7 +2,7 @@
 <br>
 <img 
   width="500px" 
-  src="https://github.com/user-attachments/assets/3fce7a42-c11d-4e9e-a29a-2015e240ee63">
+  src="https://github.com/user-attachments/assets/07ad8f9a-f8d1-473b-b3bd-6be2084bb110">
 
 <h2 align="justified">Descrição</h2>
 <p align="justified">Este é um aplicativo que permite ao usuário fazer o sorteio de amigo secreto.</p>
