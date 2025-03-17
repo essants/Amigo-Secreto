@@ -37,6 +37,9 @@
 <h2 align="justified">Erros que podem ocorrer</h2>
 <ul>
   <li>Antes de clicar em “adicionar”, é obrigatório que seja inserido um nome no campo “Digite um nome”, caso contrário, aparecerá a mensagem de erro “Por favor, digite um nome válido!”</li>
+  <img 
+  width="350px" 
+  src= "https://github.com/user-attachments/assets/a32b60b2-2ce3-4eff-b33a-43406f457061" >
   <li>Após serem sorteado todos os participantes, aparecerá a seguinte mensagem: “Não há amigos disponíveis para o sorteio!”, isso ocorrerá, pois todos os nomes já foram sorteados.</li>
 </ul>
 <br>
