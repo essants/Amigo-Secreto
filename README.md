@@ -41,6 +41,9 @@
   width="350px" 
   src= "https://github.com/user-attachments/assets/a32b60b2-2ce3-4eff-b33a-43406f457061" >
   <li>Após serem sorteado todos os participantes, aparecerá a seguinte mensagem: “Não há amigos disponíveis para o sorteio!”, isso ocorrerá, pois todos os nomes já foram sorteados.</li>
+  <img 
+  width="350px" 
+  src= "https://github.com/user-attachments/assets/c0006d18-300c-4c7b-bd5c-6e3bc191ec74" >
 </ul>
 <br>
 
