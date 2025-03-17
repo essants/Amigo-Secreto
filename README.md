@@ -11,6 +11,9 @@
 <h2 align="justified">Como usar</h2>
 <ul>
   <li> No campo “Digite um nome” digite o nome do(s) amigo(s) participante(s).</li>
+  <img 
+  width="350px" 
+  src= "https://github.com/user-attachments/assets/5545caa4-7977-4072-9c13-58c8e3d9458b">
   <li> Clique em “adicionar” após cada nome digitado.</li>  
   <li> Os nomes aparecerão numa lista.</li>
   <li> Ao clicar em “sortear amigo”, parecerá a seguinte mensagem: O amigo sorteado é: “nome da pessoa sorteada”</li>
