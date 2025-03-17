@@ -44,6 +44,11 @@
   <img 
   width="350px" 
   src= "https://github.com/user-attachments/assets/c0006d18-300c-4c7b-bd5c-6e3bc191ec74" >
+  <li>Não é possivel adicionar um nome já adicionado.</li>
+ 
+<img 
+  width="350px" 
+  src= "https://github.com/user-attachments/assets/23b8b969-67e4-42cb-a8bd-6cd903ea8d4e" >
 </ul>
 <br>
 
