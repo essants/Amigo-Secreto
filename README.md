@@ -15,6 +15,9 @@
   width="350px" 
   src= "https://github.com/user-attachments/assets/5545caa4-7977-4072-9c13-58c8e3d9458b">
   <li> Clique em “adicionar” após cada nome digitado.</li>  
+  <img 
+  width="350px" 
+  src= "https://github.com/user-attachments/assets/089d6532-ce15-44cd-b6f4-eb5a93dce9bc" >
   <li> Os nomes aparecerão numa lista.</li>
   <li> Ao clicar em “sortear amigo”, parecerá a seguinte mensagem: O amigo sorteado é: “nome da pessoa sorteada”</li>
   <li> O nome sorteado sairá da lista de amigos após ser sorteado.</li>
